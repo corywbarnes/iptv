@@ -1,33 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1,US: ESPN FHD 
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/8141
-
-#EXTINF:-1,US: EPSN SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/3105
-
-#EXTINF:-1,US: ESPN 2 FHD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/8140
-
-#EXTINF:-1,US: ESPN 2 SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/3104
-
-#EXTINF:-1,US: ESPN ES FHD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/8139
-
-#EXTINF:-1,US: ESPNU FHD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/8137
-
-#EXTINF:-1,US: Espn News FHD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/19186
-
-#EXTINF:-1,US: BIG TEN NETWORK FHD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/8203
-
-#EXTINF:-1,US: Big Ten Network Alternate2 FHD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/19185
-
-#EXTINF:-1,US: Big Ten Network Alternate3 FHD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/19184
-
-#EXTINF:-1,US: Big Ten […]
+#EXTINF:-1,GOT S1 Ep1
+http://one75tv.com/SERIES/English/Game.of.Thrones/S01/Ep01.mp4
