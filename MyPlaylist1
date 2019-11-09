@@ -1,4 +1,44 @@
-https://dailyiptvlist.com/dl/ca-m3uplaylist-2019-10-31-1.m3u
-https://dailyiptvlist.com/dl/ca-m3uplaylist-2019-10-31-2.m3u
-https://dailyiptvlist.com/dl/ca-m3uplaylist-2019-10-31-3.m3u
-https://dailyiptvlist.com/dl/ca-m3uplaylist-2019-10-31-4.m3u
+#EXTM3U
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]-------------- USA --------------[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --FORUMS OPEN IPTVXBMC.COM 3-11-2015 COME VISIT US--[/COLOR]  
+#EXTINF:-1, [COLOR red] --New Links IPTVXBMC.COM EXPERIENCE-[/COLOR]
+http://www.xbmcmxtv.com
+ 
+#EXTINF:-1, [COLOR yellow][I]------SPORTS ------[/COLOR] [/I]
+www.iptvxbmc.com
+ 
+ 
+#EXTINF:-1, BT1
+rtmp://167.114.117.208/live/bt1v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/btsports1.php live=true timeout=20 token=WY846p1E1g15W
+ 
+ 
+ 
+#EXTINF:-1,BT Sport 1
+http://212.250.46.41....100.0.227:3001
+ 
+#EXTINF:-1,BT Sport 1
+http://46.28.205.206/dhwelila547vnujhrdjhasjhgsd…/index.m3u8
+ 
+ 
+#EXTINF:-1 , Bt sport
+rtmp://31.204.153.71/live/ playpath=discohd swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Discovery%20HD.html
+ 
+#EXTINF:-1,BT Sport 1
+http://82.4.221.188:8001/1:0:1:C4BD:819:2:11A0000:0:0:0:
+ 
+#EXTINF:-1, BT sport 1
+http://192.99.24.176:8080/bt1101/BttTTtt011/index.m3u8
+ 
+#EXTINF:-1, Fox Sports 1
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+ 
+#EXTINF:-1,BT Sport 1
+http://212.250.46.41....100.0.227:3001
+ 
+#EXTINF:-1,BT Sport 1
+http://109.200.20.26:8981/FHDbt/sports1/index.m3u8
+ 
+#
+#EXTINF:-1, BT Sports 1
+rtmp://89.248.172.159:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=13&width=600&height=450 token=#atd%#$ZH
