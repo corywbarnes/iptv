@@ -1,6 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR red]--- Game of Thrones | Season 1 ---[/COLOR]
+#EXTINF:-1,[COLOR yellow]--- Game of Thrones ---[/COLOR]
+
+#EXTINF:-1,[COLOR limegreen]--- Season 1 ---[/COLOR]
 
 #EXTINF:-1,GOT S1 Ep1
 http://one75tv.com/SERIES/English/Game.of.Thrones/S01/Ep01.mp4
