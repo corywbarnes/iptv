@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 [COLOR yellow]--- Movies ---[/COLOR]
-
-#EXTINF:-1, IT Chapter 2
-http://103.91.144.230/ftpdata/Movies/Hollywood/2019/It%20Chapter%20Two%20%282019%29/
-
-
 #EXTINF:-1, [COLOR yellow]--- Blacklist ---[/COLOR]
 
 #EXTIMF:-1, [COLOR limegreen]--- Season 1 ---[/COLOR]
